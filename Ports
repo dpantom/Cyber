@@ -1,0 +1,23 @@
+Common Ports
+
+21   - FTP - File transfer protocol 
+22   - SSH - Secure shell 
+23   - Telnet - Allows remote command-line access to network devices
+25   - SMTP - Simple mail transfer protocol
+53   - DNS - Domain name system
+80   - HTTP - Unsecure website
+88   - Kerberos - Udp port allowing communication, authentification, and ticket granting
+110  - POP3 - Post office protocol: clients recieve emails from server
+111  - NIX - Firewall Configuration
+135  - RPC - Remote procedure call: remote client-server communication
+139  - SMB (old) - Server message block: NetBIOS
+143  - IMAP4 - Internet message: unencypted
+161  - SNMP - Simple network management: sends commands to request info from manager
+162  - SNMP traps - Notifications or inform requests
+389  - LDAP - Lightweight directory access: unsecured communication
+443  - HTTPS - Secure website
+445  - SMB - Server message block: file/printer sharing
+636  - LDAPS - Lightweight directory access: encrpyted
+993  - IMAPS - Internet message: encrypted
+995  - POP3 - Post office encrypted over ssl/tls
+3389 - RDP - Remote desktop
